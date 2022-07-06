@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently study on [alx software engineering](https://github.com/zayidmohamedy/alx-system_engineering-devops.git)
 
-- 🌱 I’m currently learning **Js frameworks ,php ,linux and many more**
+- 🌱 I’m currently learning **Js frameworks ,python ,linux and many more**
 
 - ⚡ Fun fact **don't lose hope**
 
