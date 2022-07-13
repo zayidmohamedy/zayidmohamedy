@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zayidmohamedy" target="blank"><img src="https://img.shields.io/twitter/follow/zayidmohamedy?logo=twitter&style=for-the-badge" alt="zayidmohamedy" /></a> </p>
 
-- 🔭 I’m currently study on [alx software engineering]( https://github.com/stars/zayidmohamedy/lists/alx-software-engineering)
+- 🔭 I’m currently study at [alx software engineering]( https://github.com/stars/zayidmohamedy/lists/alx-software-engineering)
 
 - 🌱 I’m currently learning **Js frameworks ,python ,linux and many more**
 
