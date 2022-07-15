@@ -1,4 +1,4 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Zayidmohamedy%20&fontAlign=55&fontAlignY=50&color=gradient" height="200"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Zayidmohamedy%20&fontAlign=75&fontAlignY=45&color=gradient" height="250"/>
 <h1 align="center">Hi 👋, I'm Mohamed Abdullahi Hassan</h1>
 <h3 align="center">A passionate front-end web developer from Somalia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
