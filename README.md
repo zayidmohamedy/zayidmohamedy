@@ -18,8 +18,7 @@
 <a href="https://linkedin.com/in/zayidmohamedy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zayidmohamedy" height="30" width="40" /></a>
 <a href="https://fb.com/zayidmohamedy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zayidmohamedy" height="30" width="40" /></a>
 <a href="https://instagram.com/zayidmohamedy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zayidmohamedy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/zayidmohaemdy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zayidmohamedy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/zayidmohamedy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zayidmohamedy" height="30" width="40" /></a>
+ 
 </p>
 
 
@@ -31,9 +30,9 @@
  ### Github stats
  
  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayidmohamedy&theme=https://camo.githubusercontent.com" alt="zayidmohamedy"  /></p>  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zayidmohamedy&show_icons=true&locale=en" alt="zayidmohamedy"  width="400" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zayidmohamedy&show_icons=true&locale=en" alt="zayidmohamedy"  width="450" /></p> 
 
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayidmohamedy&" alt="zayidmohamedy" width="400"    /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayidmohamedy&" alt="zayidmohamedy" width="450"    /></p>
  
 
  
