@@ -30,9 +30,9 @@
  ### Github stats
  
  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayidmohamedy&theme=https://camo.githubusercontent.com" alt="zayidmohamedy"  /></p>  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zayidmohamedy&show_icons=true&locale=en" alt="zayidmohamedy"  width="450" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zayidmohamedy&show_icons=true&locale=en" alt="zayidmohamedy"  width="410" /></p> 
 
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayidmohamedy&" alt="zayidmohamedy" width="450"    /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayidmohamedy&" alt="zayidmohamedy" width="410"    /></p>
  
 
  
