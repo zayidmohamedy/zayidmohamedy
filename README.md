@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying at [alx software engineering]( https://github.com/stars/zayidmohamedy/lists/alx-software-engineering)
 
 - 🌱 I’m currently learning **Js frameworks ,python ,linux and many more**
-
+- 📫 How to reach me **zayidka843@gmail.com**
 - ⚡ Fun fact **don't lose hope**
 
 <h3 align="left">Connect with me:</h3>
