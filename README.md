@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/zayidmohamedy" target="blank"><img src="https://img.shields.io/twitter/follow/zayidmohamedy?logo=twitter&style=for-the-badge" alt="zayidmohamedy" /></a> </p>
 
-- 🔭 I’m currently studying at [alx software engineering]( https://github.com/stars/zayidmohamedy/lists/alx-software-engineering)
+- 🔭 I’m currently studying at [Alx software engineering]( https://github.com/stars/zayidmohamedy/lists/alx-software-engineering)
 
-- 🌱 I’m currently learning **Js frameworks ,python ,linux and many more**
+- 🌱 I’m currently learning **Js frameworks ,Python ,Linux and many more**
 - 📫 How to reach me **zayidka843@gmail.com**
 - ⚡ Fun fact **don't lose hope**
 
