@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/zayidmohamedy" target="blank"><img src="https://img.shields.io/twitter/follow/zayidmohamedy?logo=twitter&style=for-the-badge" alt="zayidmohamedy" /></a> </p>
 
-- 🔭 I’m currently studying at [Alx software engineering]( https://github.com/stars/zayidmohamedy/lists/alx-software-engineering)
+- 🔭 I’m currently working project at [Alx software engineering]( https://github.com/stars/zayidmohamedy/lists/alx-software-engineering)
 
 - 🌱 I’m currently learning **Js frameworks ,Python ,Linux and many more**
 - 📫 How to reach me **sayidka843@gmail.com**
@@ -32,7 +32,7 @@
    
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zayidmohamedy&show_icons=true&locale=en" alt="zayidmohamedy"     /></p> 
 
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayidmohamedy&" alt="zayidmohamedy"     /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayidmohamedy&" alt="zayidmohamedy" /></p>
  
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayidmohamedy&show_icons=true&locale=en&layout=compact&theme=tokyolight" alt="zayidmohamedy" width="500" /></p>
