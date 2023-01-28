@@ -79,11 +79,11 @@
 
 
  ### Github stats
-   <div align="center">  <img   src="https://github-readme-stats.vercel.app/api?username=zayidmohamedy&show_icons=true&locale=en" align="center" width="80%"/> </div>
+  <div align="center">  <img   src="https://github-readme-stats.vercel.app/api?username=zayidmohamedy&show_icons=true&locale=en" align="center" width="80%"/> </div>
    
-<div align="center" width="80%" > 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zayidmohamedy" align="center" width="53%"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayidmohamedy&show_icons=true&locale=en&layout=compact&theme=tokyolight" alt="zayidmohamedy" align="center" width="45%" />
+<div align="center"  > 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zayidmohamedy" align="center" width="40%" height="100%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayidmohamedy&show_icons=true&locale=en&layout=compact&theme=tokyolight" alt="zayidmohamedy" align="center" width="40%"  height="100%" />
 </div> 
  
 
