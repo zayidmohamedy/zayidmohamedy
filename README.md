@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+ ## Connect with me 
 <p align="left">
 <a href="https://twitter.com/zayidmohamedy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zayidmohamedy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zayidmohamedy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zayidmohamedy" height="30" width="40" /></a>
@@ -27,8 +27,9 @@
  
 </p
 
+ <br/>
  
- ## Skills and languages 
+## Skills and languages 
  
  
 <table><tr><td valign="top" width="33%">
@@ -78,12 +79,13 @@
 <br/>
 
 
- ### Github stats
+ ## Github stats
   <div align="center">  <img   src="https://github-readme-stats.vercel.app/api?username=zayidmohamedy&show_icons=true&locale=en" align="center" width="80%"/> </div>
    
 <div align="center"  > 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zayidmohamedy" align="center" width="40%" height="100%" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayidmohamedy&show_icons=true&locale=en&layout=compact&theme=tokyolight" alt="zayidmohamedy" align="center" width="40%"  height="100%" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayidmohamedy&show_icons=true&locale=en&layout=compact&theme=tokyolight" alt="zayidmohamedy" align="center" width="36.5%"    />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zayidmohamedy" align="center" width="43.5%"   />
+
 </div> 
  
 
