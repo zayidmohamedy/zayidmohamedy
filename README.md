@@ -2,14 +2,14 @@
 .
 
 <h1 align="center">Hi 👋, I'm Mohamed Abdullahi Hassan   </h1>
-<h3 align="center"> full-stack web developer  </h3>
- I am a Junior Developer with a passion for creating dynamic and responsive web applications. With experience in React development and a strong understanding of PHP and Laravel development, my ability is to quickly learn new technologies and attention to detail make me a great fit for any project. I am always eager to take on new challenges and am dedicated to delivering high-quality work that meets the needs of my clients. Whether you're looking to build a new web application or update an existing one, I am ready to help you make it happen
+<h3 align="center"> Full-stack Web Developer  </h3>
+ I am  a full-stack Developer with a passion for creating dynamic and responsive web applications. With experience in React development and a strong understanding of PHP and Laravel development, my ability is to quickly learn new technologies and attention to detail make me a great fit for any project. I am always eager to take on new challenges and am dedicated to delivering high-quality work that meets the needs of my clients. Whether you're looking to build a new web application or update an existing one, I am ready to help you make it happen
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zayidmohamedy&label=Profile%20views&color=0e75b6&style=flat" alt="zayidmohamedy" /> </p>
 
  
 
-- 🔭 I’m currently working on a project at [Alx software engineering]( https://github.com/stars/zayidmohamedy/lists/alx-software-engineering)
+- 🔭 I’m currently working on a project at [Alx software engineering]( https://github.com/stars/zayidmohamedy/lists/alx-software-engineering) 
 
 - 🌱 I’m currently learning **Js frameworks ,Python ,Linux and many more**
 - 📫 How to reach me **sayidka843@gmail.com**
