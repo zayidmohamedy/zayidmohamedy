@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Js frameworks ,Python ,Linux and many more**
 - 📫 How to reach me **sayidka843@gmail.com**
-- ⚡ Motivation fact **don't lose hope**
+- ⚡ Motivational fact **don't lose hope**
 
 
 
