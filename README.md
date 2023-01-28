@@ -1,4 +1,6 @@
- <img align="right" alt="cover pic" width="auto"  src="https://media.licdn.com/dms/image/D5616AQHFqim5ph85og/profile-displaybackgroundimage-shrink_350_1400/0/1674888487721?e=1680134400&v=beta&t=exieEXrojKGV00U0DsidlW4u8FWOe1i-FtMkERQGTv0">
+ <img align="right" alt="cover pic" width="auto"  src="https://media.licdn.com/dms/image/D5616AQHFqim5ph85og/profile-displaybackgroundimage-shrink_350_1400/0/1674888487721?e=1680134400&v=beta&t=exieEXrojKGV00U0DsidlW4u8FWOe1i-FtMkERQGTv0"    > 
+.
+
 <h1 align="center">Hi 👋, I'm Mohamed Abdullahi Hassan   </h1>
 <h3 align="center"> full-stack web developer  </h3>
 Meet me😊, I am a Junior Developer with a passion for creating dynamic and responsive web applications. With experience in React development and a strong understanding of PHP and Laravel development, my ability is to quickly learn new technologies and attention to detail make me a great fit for any project. I am always eager to take on new challenges and am dedicated to delivering high-quality work that meets the needs of my clients. Whether you're looking to build a new web application or update an existing one, I am ready to help you make it happen
