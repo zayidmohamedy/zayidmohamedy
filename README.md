@@ -80,7 +80,7 @@
 
 
  ## Github stats
-  <div align="center">  <img   src="https://github-readme-stats.vercel.app/api?username=zayidmohamedy&show_icons=true&locale=en" align="center" width="80%"/> </div>
+  <div align="center">  <img   src="https://github-readme-stats.vercel.app/api?username=zayidmohamedy&show_icons=true&locale=en" align="center" width="80%"  height="280"/> </div>
    <br/>
 <div align="center"  > 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayidmohamedy&show_icons=true&locale=en&layout=compact&theme=tokyolight" alt="zayidmohamedy" align="center" width="36.5%"    />
