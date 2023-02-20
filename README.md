@@ -17,8 +17,6 @@
 - ⚡ Motivational fact **don't lose hope**
 
 
-
-
  ## Connect with me 
 <p align="left">
 <a href="https://twitter.com/zayidmohamedy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zayidmohamedy" height="30" width="40" /></a>
