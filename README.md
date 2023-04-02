@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zayidmohamedy&label=Profile%20views&color=0e75b6&style=flat" alt="zayidmohamedy" /> </p>
 
  
- 
-
 
 - 🔭 I’m currently working on a project at [Alx software engineering]( https://github.com/stars/zayidmohamedy/lists/alx-software-engineering) 
 
