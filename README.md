@@ -1,4 +1,3 @@
- <img align="right" alt="cover pic" width="auto"  src="https://media.licdn.com/dms/image/D5616AQHFqim5ph85og/profile-displaybackgroundimage-shrink_350_1400/0/1674888487721?e=1686182400&v=beta&t=H5VcDRKfG910u6eVkVd72bevswtrom90n_3JPW8LDPM"    >
  
 <h1 align="center">Hi 👋, I'm Mohamed Abdullahi Hassan   </h1>
 <h3 align="center"> Full-stack Web Developer  </h3>
